@@ -25,7 +25,7 @@ SECRET_KEY = 'uv0%#vp_5c+j0)&$&mngc$)!c!bs2u=@w0_7tq+ck1drds)z7i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<obsidian-destroyer>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','turubanov.pythonanywhere.com']
 
 
 # Application definition
